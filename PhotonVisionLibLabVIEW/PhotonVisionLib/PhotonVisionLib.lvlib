@@ -42,7 +42,7 @@
 			<Item Name="PhotonTrackedTarget_GetArea.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetArea.vi"/>
 			<Item Name="PhotonTrackedTarget_GetCameraToTarget.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetCameraToTarget.vi"/>
 			<Item Name="PhotonTrackedTarget_GetCorners.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetCorners.vi"/>
-			<Item Name="PhotonTrackedTarget_GetFiducialId.vi" Type="VI" URL="../PhotonTrackedTarget_GetFiducialId.vi"/>
+			<Item Name="PhotonTrackedTarget_GetFiducialId.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetFiducialId.vi"/>
 			<Item Name="PhotonTrackedTarget_GetPitch.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetPitch.vi"/>
 			<Item Name="PhotonTrackedTarget_GetSkew.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetSkew.vi"/>
 			<Item Name="PhotonTrackedTarget_GetYaw.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetYaw.vi"/>
