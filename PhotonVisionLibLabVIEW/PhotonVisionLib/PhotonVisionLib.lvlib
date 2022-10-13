@@ -56,6 +56,7 @@
 			<Item Name="PhotonUtils_EstimateFieldToCamera.vi" Type="VI" URL="../SubVI/PhotonUtils_EstimateFieldToCamera.vi"/>
 			<Item Name="PhotonUtils_EstimateFieldToRobot.vi" Type="VI" URL="../SubVI/PhotonUtils_EstimateFieldToRobot.vi"/>
 			<Item Name="PhotonUtils_EstimateFieldToRobot_Alt.vi" Type="VI" URL="../SubVI/PhotonUtils_EstimateFieldToRobot_Alt.vi"/>
+			<Item Name="PhotonUtils_GetTargetById.vi" Type="VI" URL="../SubVI/PhotonUtils_GetTargetById.vi"/>
 		</Item>
 		<Item Name="TargetCorner" Type="Folder">
 			<Item Name="TargetCorner_GetAll.vi" Type="VI" URL="../SubVI/TargetCorner_GetAll.vi"/>
