@@ -39,7 +39,9 @@
 		<Item Name="PhotonTrackedTarget" Type="Folder">
 			<Item Name="PhotonTrackedTarget_CreateFromPacket.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_CreateFromPacket.vi"/>
 			<Item Name="PhotonTrackedTarget_Equals.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_Equals.vi"/>
+			<Item Name="PhotonTrackedTarget_GetAmbiguity.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetAmbiguity.vi"/>
 			<Item Name="PhotonTrackedTarget_GetArea.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetArea.vi"/>
+			<Item Name="PhotonTrackedTarget_GetCameraToAltTarget.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetCameraToAltTarget.vi"/>
 			<Item Name="PhotonTrackedTarget_GetCameraToTarget.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetCameraToTarget.vi"/>
 			<Item Name="PhotonTrackedTarget_GetCorners.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetCorners.vi"/>
 			<Item Name="PhotonTrackedTarget_GetFiducialId.vi" Type="VI" URL="../SubVI/PhotonTrackedTarget_GetFiducialId.vi"/>
